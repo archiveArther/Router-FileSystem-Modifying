@@ -5,10 +5,11 @@ First of all, you have got to have the **Telnet Feature** enabled on Windows 10 
 ##  How to Enable Telnet Client
 1. Press `Windows + R` on your keyboard.
 2. Type the following command and press Enter:
+   
    ```text
    optionalfeatures
    ```
-3. Scroll down, check the box for **Telnet Client**, and click **OK**.
+4. Scroll down, check the box for **Telnet Client**, and click **OK**.
 
 ---
 
