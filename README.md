@@ -2,7 +2,7 @@
 
 First of all, you have got to have the **Telnet Feature** enabled on Windows 10 or Windows 11.
 
-## 🛠️ How to Enable Telnet Client
+##  How to Enable Telnet Client
 1. Press `Windows + R` on your keyboard.
 2. Type the following command and press Enter:
    ```text
@@ -12,7 +12,7 @@ First of all, you have got to have the **Telnet Feature** enabled on Windows 10 
 
 ---
 
-## 🔌 Router Ethernet Cable Setup
+##  Router Ethernet Cable Setup
 1. Connect an Ethernet cable to your Laptop/PC.
 2. Connect the other end to the back of the router into the port named **Ethernet**.
 3. A light called **LAN** or **WAN** on the router should turn on.
@@ -26,7 +26,7 @@ First of all, you have got to have the **Telnet Feature** enabled on Windows 10 
 
 ---
 
-## 🌐 IP Address Setup
+##  IP Address Setup
 1. Click on **Use the following IP address**.
 2. Enter these exact values into the boxes:
    * **IP address:** `192.168.1.10` *(Note: This does not have to be your main home Wi-Fi/Ethernet IP)*
@@ -36,7 +36,7 @@ First of all, you have got to have the **Telnet Feature** enabled on Windows 10 
 
 ---
 
-## ⌨️ Editing System Files Via Telnet
+##  Editing System Files Via Telnet
 1. Press `Windows + R` and type `cmd` to open the Command Prompt.
 2. Inside the Command Prompt, connect to the gateway IP by typing:
    ```cmd
