@@ -1,4 +1,4 @@
-# How to Access and Edit MT882 Router System Files
+# How to Access and Edit Huawei MT882 Router System Files
 
 First of all, you have got to have the Telnet Feature On Windows 10/11.
 
@@ -30,7 +30,7 @@ If you got in the console, it should show:
 ```text
 MT882>
 ```
-That's the main console of the MT882 Router to modify the system files. Type:
+That's the main console of the Huawei MT882 Router to modify the system files. Type:
 ```text
 sys edit autoexec.net
 ```
